@@ -1,7 +1,7 @@
 👩‍💻 Front-end & Mobile Developer  
-📍 Sicilia  
-📱 Appassionata di UI/UX e sviluppo mobile con un occhio attento al design e alle performance.  
-💡 Amo trasformare idee in esperienze digitali intuitive e accessibili.  
+📍 Sicily  
+📱 Passionate about UI/UX and mobile development, with a keen eye for design and performance.  
+💡 I love turning ideas into intuitive and accessible digital experiences.  
 🔧 Tech stack: React, Angular, TypeScript, Flutter, Android, HTML/CSS  
-🚀 Sempre alla ricerca di nuove sfide e opportunità per crescere nel mondo dello sviluppo.  
-🌱 In continua evoluzione: studio, sperimento, creo.  
+🚀 Always looking for new challenges and opportunities to grow in the development world.  
+🌱 Constantly evolving: I study, experiment, and create.  
